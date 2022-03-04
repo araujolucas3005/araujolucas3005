@@ -1,6 +1,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujolucas3005)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujolucas3005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **araujolucas3005/araujolucas3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
